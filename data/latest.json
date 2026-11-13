@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "source_count": 18,
+  "sources": [
+    {
+      "id": "source_01",
+      "name": "Associated Builders and Contractors",
+      "url": "https://www.abc.org/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_02",
+      "name": "Construction Executive",
+      "url": "https://constructionexec.com/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_03",
+      "name": "Dodge Construction Network \u2014 news",
+      "url": "https://www.construction.com/construction-news/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_04",
+      "name": "Construction Analytics \u2014 Ed Zarenski",
+      "url": "https://edzarenski.com/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_05",
+      "name": "American Institute of Architects \u2014 resource center",
+      "url": "https://www.aia.org/resource-center",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_06",
+      "name": "Buildern \u2014 resources",
+      "url": "https://buildern.com/resources/blog/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_07",
+      "name": "S&P Global \u2014 construction and infrastructure forecasts",
+      "url": "https://www.spglobal.com/market-intelligence/en/solutions/products/us-construction-infrastructure-state-metro-trends-forecasts",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_08",
+      "name": "S&P Global \u2014 economy insights",
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/economy",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_09",
+      "name": "FMI \u2014 construction outlook",
+      "url": "https://fmicorp.com/insights/construction-outlook",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_10",
+      "name": "Deltek \u2014 business insights",
+      "url": "https://www.deltek.com/en/blog/business-insights",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_11",
+      "name": "Cumming Group \u2014 construction volume",
+      "url": "https://insights.cumming-group.com/construction-volume/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_12",
+      "name": "U.S. Census \u2014 C30 construction spending",
+      "url": "https://www.census.gov/construction/c30/c30index.html",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_13",
+      "name": "ConstructConnect \u2014 news",
+      "url": "https://news.constructconnect.com",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_14",
+      "name": "ConstructConnect \u2014 economics",
+      "url": "https://www.constructconnect.com/resources/economics",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_15",
+      "name": "ConstructConnect \u2014 economy news",
+      "url": "https://news.constructconnect.com/economy",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_16",
+      "name": "BLS \u2014 input to industry PPI series",
+      "url": "https://www.bls.gov/respondents/ppi/bls-satellite-input-to-industry-series.htm",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_17",
+      "name": "ABC \u2014 construction backlog news releases",
+      "url": "https://www.abc.org/News-Media/News-Releases?Category=construction-backlog-indicator",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    },
+    {
+      "id": "source_18",
+      "name": "Dodge \u2014 Momentum Index articles",
+      "url": "https://www.construction.com/construction-news/",
+      "checked": null,
+      "status": "not_checked",
+      "count": 0,
+      "detail": "Not checked until scheduled workflow first runs"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Dodge Momentum Index Falls 9% in October",
+      "url": "https://www.construction.com/dodge-momentum-index-falls-9-in-october/",
+      "published": "2026-11-06",
+      "source_id": "source_03",
+      "source_name": "Dodge Construction Network \u2014 news",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-12T00:00:00+00:00",
+      "first_seen": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "title": "Construction Material Prices Rise 11 Percent at Fastest Pace in Four Years",
+      "url": "https://news.constructconnect.com/construction-material-prices-rise-11-percent-at-fastest-pace-in-four-years",
+      "published": "2026-10-16",
+      "source_id": "source_15",
+      "source_name": "ConstructConnect \u2014 economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-12T00:00:00+00:00",
+      "first_seen": "2026-11-12T00:00:00+00:00"
+    }
+  ],
+  "article_count": 2,
+  "notice": "Two manually verified starting article links, not a completed automated collection. Source statuses remain not_checked until the scheduled job runs."
+}

@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "validation_policy": "Strict source/period/unit pattern rules; nonmatching figures are not published",
+  "observations": [],
+  "audit": []
+}

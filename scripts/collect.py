@@ -134,5 +134,7 @@ def main():
     temp=dest.with_suffix('.tmp');temp.write_text(json.dumps(output,indent=2,ensure_ascii=False)+'\n',encoding='utf8');temp.replace(dest)
     print('Sources',len(results),'ok',sum(x['status']=='ok' for x in results),'articles',len(rows))
     for s in results: print(s['id'],s['status'],s['count'],s['detail'])
+    from numeric import run as update_numeric
+    update_numeric([a['url'] for a in rows])
 
 if __name__=='__main__':main()

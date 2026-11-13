@@ -1,169 +1,169 @@
 {
   "schema_version": 1,
-  "updated_at": null,
+  "updated_at": "2026-11-13T18:38:02+00:00",
   "source_count": 18,
   "sources": [
     {
       "id": "source_01",
       "name": "Associated Builders and Contractors",
       "url": "https://www.abc.org/",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "no_articles",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "Public page accessible; no matching article links found"
     },
     {
       "id": "source_02",
       "name": "Construction Executive",
       "url": "https://constructionexec.com/",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "blocked",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "robots access denied"
     },
     {
       "id": "source_03",
-      "name": "Dodge Construction Network \u2014 news",
+      "name": "Dodge Construction Network — news",
       "url": "https://www.construction.com/construction-news/",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 11,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_04",
-      "name": "Construction Analytics \u2014 Ed Zarenski",
+      "name": "Construction Analytics — Ed Zarenski",
       "url": "https://edzarenski.com/",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 20,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_05",
-      "name": "American Institute of Architects \u2014 resource center",
+      "name": "American Institute of Architects — resource center",
       "url": "https://www.aia.org/resource-center",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 2,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_06",
-      "name": "Buildern \u2014 resources",
+      "name": "Buildern — resources",
       "url": "https://buildern.com/resources/blog/",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 8,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_07",
-      "name": "S&P Global \u2014 construction and infrastructure forecasts",
+      "name": "S&P Global — construction and infrastructure forecasts",
       "url": "https://www.spglobal.com/market-intelligence/en/solutions/products/us-construction-infrastructure-state-metro-trends-forecasts",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "blocked",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "robots access denied"
     },
     {
       "id": "source_08",
-      "name": "S&P Global \u2014 economy insights",
+      "name": "S&P Global — economy insights",
       "url": "https://www.spglobal.com/en/research-insights/market-insights/economy",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "blocked",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "robots access denied"
     },
     {
       "id": "source_09",
-      "name": "FMI \u2014 construction outlook",
+      "name": "FMI — construction outlook",
       "url": "https://fmicorp.com/insights/construction-outlook",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 1,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_10",
-      "name": "Deltek \u2014 business insights",
+      "name": "Deltek — business insights",
       "url": "https://www.deltek.com/en/blog/business-insights",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 3,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_11",
-      "name": "Cumming Group \u2014 construction volume",
+      "name": "Cumming Group — construction volume",
       "url": "https://insights.cumming-group.com/construction-volume/",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "unavailable",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "SSLError"
     },
     {
       "id": "source_12",
-      "name": "U.S. Census \u2014 C30 construction spending",
+      "name": "U.S. Census — C30 construction spending",
       "url": "https://www.census.gov/construction/c30/c30index.html",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:00+00:00",
+      "status": "ok",
+      "count": 5,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_13",
-      "name": "ConstructConnect \u2014 news",
+      "name": "ConstructConnect — news",
       "url": "https://news.constructconnect.com",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:01+00:00",
+      "status": "ok",
+      "count": 20,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_14",
-      "name": "ConstructConnect \u2014 economics",
+      "name": "ConstructConnect — economics",
       "url": "https://www.constructconnect.com/resources/economics",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:01+00:00",
+      "status": "ok",
+      "count": 4,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_15",
-      "name": "ConstructConnect \u2014 economy news",
+      "name": "ConstructConnect — economy news",
       "url": "https://news.constructconnect.com/economy",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:01+00:00",
+      "status": "ok",
+      "count": 20,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     },
     {
       "id": "source_16",
-      "name": "BLS \u2014 input to industry PPI series",
+      "name": "BLS — input to industry PPI series",
       "url": "https://www.bls.gov/respondents/ppi/bls-satellite-input-to-industry-series.htm",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:01+00:00",
+      "status": "blocked",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "robots access denied"
     },
     {
       "id": "source_17",
-      "name": "ABC \u2014 construction backlog news releases",
+      "name": "ABC — construction backlog news releases",
       "url": "https://www.abc.org/News-Media/News-Releases?Category=construction-backlog-indicator",
-      "checked": null,
-      "status": "not_checked",
+      "checked": "2026-11-13T18:38:01+00:00",
+      "status": "no_articles",
       "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "detail": "Public page accessible; no matching article links found"
     },
     {
       "id": "source_18",
-      "name": "Dodge \u2014 Momentum Index articles",
+      "name": "Dodge — Momentum Index articles",
       "url": "https://www.construction.com/construction-news/",
-      "checked": null,
-      "status": "not_checked",
-      "count": 0,
-      "detail": "Not checked until scheduled workflow first runs"
+      "checked": "2026-11-13T18:38:01+00:00",
+      "status": "ok",
+      "count": 11,
+      "detail": "Public landing-page links found; content and numeric claims not validated"
     }
   ],
   "articles": [
@@ -172,7 +172,7 @@
       "url": "https://www.construction.com/dodge-momentum-index-falls-9-in-october/",
       "published": "2026-11-06",
       "source_id": "source_03",
-      "source_name": "Dodge Construction Network \u2014 news",
+      "source_name": "Dodge Construction Network — news",
       "origin_url": "https://www.construction.com/construction-news/",
       "discovered": "2026-11-12T00:00:00+00:00",
       "first_seen": "2026-11-12T00:00:00+00:00"
@@ -182,12 +182,852 @@
       "url": "https://news.constructconnect.com/construction-material-prices-rise-11-percent-at-fastest-pace-in-four-years",
       "published": "2026-10-16",
       "source_id": "source_15",
-      "source_name": "ConstructConnect \u2014 economy news",
+      "source_name": "ConstructConnect — economy news",
       "origin_url": "https://news.constructconnect.com/economy",
-      "discovered": "2026-11-12T00:00:00+00:00",
+      "discovered": "2026-11-13T18:38:01+00:00",
       "first_seen": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "title": "What Is Retainage in Construction? How It Works, Rates & Release",
+      "url": "https://buildern.com/resources/blog/construction-retainage",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "What Is a Construction Takeoff? Complete Guide for GCs (2026 Update)",
+      "url": "https://buildern.com/resources/blog/what-is-construction-takeoff",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "How JFK Custom Homes Doubled Its Project Load with Buildern",
+      "url": "https://buildern.com/resources/case-study/jfk-case-study",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Free Change Order Template + Form for Contractors",
+      "url": "https://buildern.com/resources/blog/change-order-template",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Cost-Plus Contracts Explained: A Guide for Custom Home Builders",
+      "url": "https://buildern.com/resources/blog/cost-plus-contract",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Best Construction CRM Software in 2026",
+      "url": "https://buildern.com/resources/blog/best-construction-crm-software",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "8 Best Construction Job Costing Software Tools for Contractors (2026)",
+      "url": "https://buildern.com/resources/blog/construction-job-costing-software",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Best Construction Cost Management and Budgeting Software for Builders (2026)",
+      "url": "https://buildern.com/resources/blog/construction-cost-management-software",
+      "published": null,
+      "source_id": "source_06",
+      "source_name": "Buildern — resources",
+      "origin_url": "https://buildern.com/resources/blog/",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "DoW May Ask for Your Actual Costs. What Happens When the Request Lands?",
+      "url": "https://www.deltek.com/resources/articles/dow-actual-cost-pricing-request-readiness",
+      "published": null,
+      "source_id": "source_10",
+      "source_name": "Deltek — business insights",
+      "origin_url": "https://www.deltek.com/en/blog/business-insights",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Stop Switching Tabs: Your Favorite AI Tools Now Work With Costpoint Through MCP",
+      "url": "https://www.deltek.com/resources/articles/costpoint-mcp-ai-tools",
+      "published": null,
+      "source_id": "source_10",
+      "source_name": "Deltek — business insights",
+      "origin_url": "https://www.deltek.com/en/blog/business-insights",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Why Finance’s Perspective Belongs in Proposal Development, Not Just After the Award",
+      "url": "https://www.deltek.com/resources/articles/finance-costpoint-proposals",
+      "published": null,
+      "source_id": "source_10",
+      "source_name": "Deltek — business insights",
+      "origin_url": "https://www.deltek.com/en/blog/business-insights",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Private Construction Spending table",
+      "url": "https://www.census.gov/construction/c30/xlsx/privsatime.xlsx",
+      "published": null,
+      "source_id": "source_12",
+      "source_name": "U.S. Census — C30 construction spending",
+      "origin_url": "https://www.census.gov/construction/c30/c30index.html",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Historical Value Put in Place",
+      "url": "https://www.census.gov/construction/c30/historical_data.html",
+      "published": null,
+      "source_id": "source_12",
+      "source_name": "U.S. Census — C30 construction spending",
+      "origin_url": "https://www.census.gov/construction/c30/c30index.html",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Natural Disaster FAQs.",
+      "url": "https://www.census.gov/construction/c30/pdf/natural_disasters.pdf",
+      "published": null,
+      "source_id": "source_12",
+      "source_name": "U.S. Census — C30 construction spending",
+      "origin_url": "https://www.census.gov/construction/c30/c30index.html",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Developers' webpage.",
+      "url": "https://www.census.gov/data/developers/data-sets/economic-indicators.html",
+      "published": null,
+      "source_id": "source_12",
+      "source_name": "U.S. Census — C30 construction spending",
+      "origin_url": "https://www.census.gov/construction/c30/c30index.html",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Previous Announcements",
+      "url": "https://www.census.gov/construction/c30/pdf/news.pdf",
+      "published": null,
+      "source_id": "source_12",
+      "source_name": "U.S. Census — C30 construction spending",
+      "origin_url": "https://www.census.gov/construction/c30/c30index.html",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Project Spotlight",
+      "url": "https://news.constructconnect.com/tag/project-spotlight",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "OhioHealth Announces Plans for $700M Hospital Project in New Albany",
+      "url": "https://news.constructconnect.com/ohiohealth-announces-plans-for-700m-hospital-project-in-new-albany",
+      "published": null,
+      "source_id": "source_14",
+      "source_name": "ConstructConnect — economics",
+      "origin_url": "https://www.constructconnect.com/resources/economics",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "The Midterm Elections are Done, What Does It Mean for Construction",
+      "url": "https://news.constructconnect.com/the-midterm-elections-are-done.-what-does-it-mean-for-construction",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "SpaceX $24B Data Center and Power Plant in Starbase, Tx Revealed in Public Notice",
+      "url": "https://news.constructconnect.com/spacex-24b-data-center-and-power-plant-in-starbase-tx-revealed-in-public-notice",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Tariffs Added to Additional Canadian Imports, Including Construction Materials",
+      "url": "https://news.constructconnect.com/tariffs-added-to-additional-canadian-imports-including-construction-materials",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Industry News & Trends",
+      "url": "https://news.constructconnect.com/tag/industry-news-trends",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "DOE, Purdue to Test Construction Methods for Advanced Reactors",
+      "url": "https://news.constructconnect.com/doe-purdue-to-test-construction-methods-for-advanced-reactors",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Google Announces Its First Wyoming Data Center with $17B Investment and Power Partnerships",
+      "url": "https://news.constructconnect.com/google-announces-its-first-wyoming-data-center-with-17b-investment-and-power-partnerships",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Maritime Administration Grants Direct $498 Million to 35 Projects in 19 States",
+      "url": "https://news.constructconnect.com/port-grants-direct-498-million-to-35-projects-in-19-states",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Data Centers Lift Construction Starts, but There's More to the Story",
+      "url": "https://news.constructconnect.com/data-centers-lift-construction-starts-but-theres-more-to-the-story",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Hudbay, Mitsubishi Approve Arizona Copper World Construction, Target 2029 Production",
+      "url": "https://news.constructconnect.com/hudbay-mitsubishi-approve-arizona-copper-world-construction-target-2029-production",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Construction Starts",
+      "url": "https://news.constructconnect.com/tag/construction-starts",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Top 10 US Construction Starts by Dollar Volume - September 2026",
+      "url": "https://news.constructconnect.com/top-10-us-construction-starts-by-dollar-volume-september-2026",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Haunted Construction 2026: From Grisly Finds to Pivotal Historic Ones - Construction Sites Deliver the Spooky Goods",
+      "url": "https://news.constructconnect.com/haunted-construction-2026-from-grisly-finds-to-pivotal-historic-ones-construction-sites-deliver-the-spooky-goods",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Data Center Report",
+      "url": "https://news.constructconnect.com/tag/data-center-report",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "November 2026 Data Center Report: September Adds $9.4B in Construction Starts, Costs Continue to Increase",
+      "url": "https://news.constructconnect.com/november-2026-data-center-report-september-adds-9.4b-in-construction-starts-costs-continue-to-increase",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Blue Bird Plans $300M School Bus Manufacturing Facility in Georgia",
+      "url": "https://news.constructconnect.com/blue-bird-plans-300m-school-bus-manufacturing-facility-in-georgia",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Regional Construction Starts: Megaprojects Bolster East and Southeast Growth, Mountain Falls Behind",
+      "url": "https://news.constructconnect.com/regional-construction-starts-megaprojects-bolster-east-and-southeast-division-growth-mountain-division-falls-behind",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "USDA Selects Eight Fertilizer Manufacturing Projects for $573 Million in Proposed Funding",
+      "url": "https://news.constructconnect.com/usda-selects-eight-fertilizer-manufacturing-projects-for-573-million-in-proposed-funding",
+      "published": null,
+      "source_id": "source_13",
+      "source_name": "ConstructConnect — news",
+      "origin_url": "https://news.constructconnect.com",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Construction Starts Fall to $63.4 Billion as August's Megaproject Surge Fades",
+      "url": "https://news.constructconnect.com/construction-starts-fall-to-63.4-billion-as-augusts-megaproject-surge-fades",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "See the Slides (PDF Format)",
+      "url": "https://www.constructconnect.com/hubfs/ConstructConnect%20Fall%202026%20Construction%20Economy%20Outlook%20Slides.pdf",
+      "published": null,
+      "source_id": "source_14",
+      "source_name": "ConstructConnect — economics",
+      "origin_url": "https://www.constructconnect.com/resources/economics",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Read Full Report",
+      "url": "https://www.constructconnect.com/resources/economics/canada-economic-snapshot/october-monthly-snapshot",
+      "published": null,
+      "source_id": "source_14",
+      "source_name": "ConstructConnect — economics",
+      "origin_url": "https://www.constructconnect.com/resources/economics",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Construction Employment Increases in September from a Year Ago in 34 States Amid Price and Funding Questions",
+      "url": "https://news.constructconnect.com/construction-employment-increases-in-september-from-a-year-ago-in-34-states-but-only-25-states-add-jobs-from-august-to-september-amid-price-and-funding-questions",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "The Associated General Contractors (AGC) of America",
+      "url": "https://news.constructconnect.com/author/the-associated-general-contractors-agc-of-america",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Concrete Resists Inflation Surge as Steel and Aluminum Prices Soar",
+      "url": "https://news.constructconnect.com/concrete-resists-inflation-surge-as-steel-and-aluminum-prices-soar",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Inflation Untamed: September CPI Climbs 0.6% as Gas Prices Jump 9.1%",
+      "url": "https://news.constructconnect.com/inflation-untamed-september-cpi-climbs-0.6-as-gas-prices-jump-9.1",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Construction Economy Brief for September 2026: $99B in Starts, a Record Disconnect and Future Opportunities",
+      "url": "https://news.constructconnect.com/construction-economy-brief-for-september-2026-99b-in-starts-a-record-disconnect-future-opportunities",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Middle Atlantic, East North Central Rush Ahead of Other Divisions on Surging Megaproject Starts",
+      "url": "https://news.constructconnect.com/middle-atlantic-east-north-central-rush-ahead-of-other-divisions-on-surging-megaproject-starts",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Construction Employment Update: Nonresidential Building Pauses While Residential Rebounds",
+      "url": "https://news.constructconnect.com/construction-employment-update-nonresidential-building-pauses-while-residential-rebounds",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Megaprojects Drive August US Nonresidential Construction Starts to $99 Billion",
+      "url": "https://news.constructconnect.com/megaprojects-drive-august-u.s.-nonresidential-construction-starts-to-99-billion",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Federal Reserve Raises Interest Rates as Inflation Remains Elevated",
+      "url": "https://news.constructconnect.com/federal-reserve-raises-interest-rates-as-inflation-remains-elevated",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Energy Price Inflation Reignites as Conflict Continues",
+      "url": "https://news.constructconnect.com/energy-price-inflation-reignites-as-conflict-continues",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Project Stress Index",
+      "url": "https://news.constructconnect.com/tag/project-stress-index",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Project Stress Index™ Report Ticks Down in August",
+      "url": "https://news.constructconnect.com/project-stress-index-report-ticks-down-in-august",
+      "published": null,
+      "source_id": "source_15",
+      "source_name": "ConstructConnect — economy news",
+      "origin_url": "https://news.constructconnect.com/economy",
+      "discovered": "2026-11-13T18:38:01+00:00",
+      "first_seen": "2026-11-13T18:38:01+00:00"
+    },
+    {
+      "title": "Dodge Momentum Index",
+      "url": "https://www.construction.com/category/dodge-momentum-index",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Dodge Momentum Index Falls 9% in October",
+      "url": "https://www.construction.com/dodge-momentum-index-falls-9-in-october",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Total Construction Starts",
+      "url": "https://www.construction.com/category/total-construction-starts",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Starts Recede 1.5% in September",
+      "url": "https://www.construction.com/construction-starts-recede-1-5-in-september",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Dodge Momentum Index Grows 2% in September",
+      "url": "https://www.construction.com/dodge-momentum-index-grows-2-in-september",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Starts Fall Back 24.8% in August",
+      "url": "https://www.construction.com/construction-starts-fall-back-24-8-in-august",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Dodge Momentum Index Flat in August",
+      "url": "https://www.construction.com/dodge-momentum-index-flat-in-august",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Starts Rebound 25.6% in July",
+      "url": "https://www.construction.com/construction-starts-rebound-july-2026",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Dodge Momentum Index Improves 7% in July",
+      "url": "https://www.construction.com/dodge-momentum-index-improves-7-in-july",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Starts Recede 20% in June",
+      "url": "https://www.construction.com/construction-starts-recede-20-in-june",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Dodge Momentum Index Slows 2% in June",
+      "url": "https://www.construction.com/dodge-momentum-index-slows-2-in-june",
+      "published": null,
+      "source_id": "source_18",
+      "source_name": "Dodge — Momentum Index articles",
+      "origin_url": "https://www.construction.com/construction-news/",
+      "discovered": "2026-11-13T18:38:02+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "SEP’26 PPI for Construction",
+      "url": "https://edzarenski.com/2026/10/15/sep26-ppi",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Manufacturing Boom. Data Center Boom.",
+      "url": "https://edzarenski.com/2026/10/13/manufacturing-boom-data-center-boom",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Briefs Sept 2026",
+      "url": "https://edzarenski.com/2026/09/01/construction-briefs-sept-2026",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Briefs AUG 2026",
+      "url": "https://edzarenski.com/2026/08/08/construction-briefs-aug-2026",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Cost Inflation – 2026",
+      "url": "https://edzarenski.com/2026/05/13/construction-cost-inflation-2026",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Share on Bluesky (Opens in new window) Bluesky",
+      "url": "https://edzarenski.com/2026/10/15/sep26-ppi?share=bluesky",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Print (Opens in new window) Print",
+      "url": "https://edzarenski.com/2026/10/15/sep26-ppi?share=print",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "See Manufacturing Spending Taper for explanation.",
+      "url": "https://edzarenski.com/2024/11/21/the-manufacturing-spending-taper",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Share on Bluesky (Opens in new window) Bluesky",
+      "url": "https://edzarenski.com/2026/10/13/manufacturing-boom-data-center-boom?share=bluesky",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Print (Opens in new window) Print",
+      "url": "https://edzarenski.com/2026/10/13/manufacturing-boom-data-center-boom?share=print",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "September 15, 2026 2:27 pm",
+      "url": "https://edzarenski.com/2026/09/15/aug26-ppi",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Share on Bluesky (Opens in new window) Bluesky",
+      "url": "https://edzarenski.com/2026/09/15/aug26-ppi?share=bluesky",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Print (Opens in new window) Print",
+      "url": "https://edzarenski.com/2026/09/15/aug26-ppi?share=print",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Share on Bluesky (Opens in new window) Bluesky",
+      "url": "https://edzarenski.com/2026/09/01/construction-briefs-sept-2026?share=bluesky",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Print (Opens in new window) Print",
+      "url": "https://edzarenski.com/2026/09/01/construction-briefs-sept-2026?share=print",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Share on Bluesky (Opens in new window) Bluesky",
+      "url": "https://edzarenski.com/2026/08/08/construction-briefs-aug-2026?share=bluesky",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Print (Opens in new window) Print",
+      "url": "https://edzarenski.com/2026/08/08/construction-briefs-aug-2026?share=print",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Inflation 2025 Update Nov",
+      "url": "https://edzarenski.com/2025/11/13/construction-inflation-2025-update-nov",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Construction Inflation 2024 – last updated JUL 2024 – BASE 2019=100",
+      "url": "https://edzarenski.com/2024/01/17/construction-inflation-2024",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Tariffs Create Unknown Costs to Construction",
+      "url": "https://edzarenski.com/2025/02/27/tariffs-create-unknown-costs-to-construction",
+      "published": null,
+      "source_id": "source_04",
+      "source_name": "Construction Analytics — Ed Zarenski",
+      "origin_url": "https://edzarenski.com/",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "AIA Compensation & Benefits Report",
+      "url": "https://www.aia.org/resource-center/aia-compensation-benefits-report",
+      "published": null,
+      "source_id": "source_05",
+      "source_name": "American Institute of Architects — resource center",
+      "origin_url": "https://www.aia.org/resource-center",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Download the report",
+      "url": "https://www.aia.org/sites/default/files/2026-10/LetKidsBeKids_Publication2026_0.pdf",
+      "published": null,
+      "source_id": "source_05",
+      "source_name": "American Institute of Architects — resource center",
+      "origin_url": "https://www.aia.org/resource-center",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "2026 North American Engineering and Construction Outlook: Fourth Quarter",
+      "url": "https://fmicorp.com/insights/construction-outlook/2026-north-american-engineering-and-construction-outlook-fourth-quarter",
+      "published": null,
+      "source_id": "source_09",
+      "source_name": "FMI — construction outlook",
+      "origin_url": "https://fmicorp.com/insights/construction-outlook",
+      "discovered": "2026-11-13T18:38:00+00:00",
+      "first_seen": "2026-11-13T18:38:00+00:00"
     }
   ],
-  "article_count": 2,
-  "notice": "Two manually verified starting article links, not a completed automated collection. Source statuses remain not_checked until the scheduled job runs."
+  "article_count": 86,
+  "notice": "Automated discovery of publicly accessible report links only. No unverified numerical claims are generated. A source may be blocked, paywalled, incomplete, or delayed. Links are not a licensed data feed."
 }

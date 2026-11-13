@@ -1,4 +1,4 @@
-name: Check approved construction sources
+name: Update Construction Numerical Indicators
 on:
   schedule:
     - cron: '20 12 * * *'

@@ -1,7 +1,137 @@
 {
   "schema_version": 1,
-  "updated_at": null,
-  "validation_policy": "Strict source/period/unit pattern rules; nonmatching figures are not published",
+  "updated_at": "2026-11-13T22:50:01+00:00",
+  "validation_policy": "Strict pattern, unique match, source domain, reporting month, publisher release date, plausible range; otherwise no update",
   "observations": [],
-  "audit": []
+  "audit": [
+    {
+      "url": "https://www.abc.org/News-Media/News-Releases/abcs-construction-backlog-indicator-drops-in-october",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "ABC contractor backlog: expected exactly 1 matching statement; found 0"
+      ]
+    },
+    {
+      "url": "https://www.abc.org/News-Media/News-Releases/abcs-construction-backlog-indicator-rises-again-in-september-on-data-center-strength",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "ABC contractor backlog: expected exactly 1 matching statement; found 0"
+      ]
+    },
+    {
+      "url": "https://www.aia.org/resource-center/abi-september-2026-architecture-firm-billings-slump-deepens",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "Architecture Billings Index: no machine-readable publication date (queued for review)"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/dodge-momentum-index-falls-9-in-october/",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/construction-starts-recede-1-5-in-september/",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/category/dodge-momentum-index",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "Dodge Momentum Index: expected exactly 1 matching statement; found 0"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/dodge-momentum-index-falls-9-in-october",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/category/total-construction-starts",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "Total construction starts annualized: expected exactly 1 matching statement; found 0",
+        "Total construction starts YTD: expected exactly 1 matching statement; found 0"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/construction-starts-recede-1-5-in-september",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/dodge-momentum-index-grows-2-in-september",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/construction-starts-fall-back-24-8-in-august",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/dodge-momentum-index-flat-in-august",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/construction-starts-rebound-july-2026",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/dodge-momentum-index-improves-7-in-july",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/construction-starts-recede-20-in-june",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    },
+    {
+      "url": "https://www.construction.com/dodge-momentum-index-slows-2-in-june",
+      "status": "review_required",
+      "accepted": 0,
+      "issues": [
+        "not a Dodge DMI/starts release"
+      ]
+    }
+  ]
 }

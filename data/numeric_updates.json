@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:50:01+00:00",
+  "updated_at": "2026-11-14T13:02:34+00:00",
   "validation_policy": "Strict pattern, unique match, source domain, reporting month, publisher release date, plausible range; otherwise no update",
   "observations": [],
   "audit": [
